@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{   int n; int i;
+    int w;
+    cout<<"Enter the number of elements in your weights array";
+    cin>>n;
+    int weight= new int[n]
+    cout<<"enter weght";
+    cin>>w
+    cout<<"Enter your elements";
+    for (i=0;i<n;i++)
+     {
+        cin>>weight[i];
+     }
+     wsum=0
+    for (i=0;i<n;i++)
+    {
+      if(wsum+weight[i]<=w)
+      {
+            s=s+1;
+            wsum=
+      }
+    }
+}
